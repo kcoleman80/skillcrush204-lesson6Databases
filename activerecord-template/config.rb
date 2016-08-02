@@ -15,7 +15,7 @@ DB_NAME = APP_NAME + "_development.db"
 
 TEST_DB_NAME = APP_NAME + "_test.db"
 
-DB_USERNAME = 'postgres'
+DB_USERNAME = 'CCM'
 
 DB_PASSWORD = 'nico'
 
