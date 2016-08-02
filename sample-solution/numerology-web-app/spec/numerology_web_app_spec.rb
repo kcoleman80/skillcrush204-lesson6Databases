@@ -1,1 +1,0 @@
-../../../provided-code/spec/numerology_web_app_spec.rb
